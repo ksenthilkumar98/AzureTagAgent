@@ -1,0 +1,7 @@
+Name,Value
+AZURE_SUBSCRIPTION_ID,Your Subscription ID
+TARGET_RESOURCE_GROUP,The Resource Group to scan
+AZURE_OPENAI_ENDPOINT,From AI Foundry
+AZURE_OPENAI_API_KEY,From AI Foundry
+AZURE_OPENAI_DEPLOYMENT,"Name of your model deployment (e.g., ""gpt-4"")"
+AZURE_OPENAI_API_VERSION,Use 2024-02-15-preview or similar
